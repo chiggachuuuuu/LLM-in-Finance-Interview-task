@@ -12,11 +12,11 @@ This pattern is repeatable across different parameter values, dates, and scenari
 
 | # | Problem | Without instructions | With instructions |
 |---|---------|---------------------|-------------------|
-| [1](prompts/01_dcf_valuation.md) | DCF valuation | $333M (simple perpetuity) | $343M (structured 5-year DCF) |
-| [2](prompts/02_breakeven_analysis.md) | Project breakeven | 6.25 years (simple payback) | ~9 years (discounted payback) |
-| [3](prompts/03_bond_holding_return.md) | Bond return | 5.26% current yield | 6.32% holding period return |
-| [4](prompts/04_portfolio_return.md) | Portfolio return | 14.33% (equal-weight assumed) | 11.30% (value-weighted) |
-| [5](prompts/05_leverage_ratio.md) | Leverage ratio | 0.67x (debt-to-equity) | 0.40 (debt-to-assets) |
+| [1](01_dcf_valuation.md) | DCF valuation | $333M (simple perpetuity) | $343M (structured 5-year DCF) |
+| [2](02_breakeven_analysis.md) | Project breakeven | 6.25 years (simple payback) | ~9 years (discounted payback) |
+| [3](03_bond_holding_return.md) | Bond return | 5.26% current yield | 6.32% holding period return |
+| [4](04_portfolio_return.md) | Portfolio return | 14.33% (equal-weight assumed) | 11.30% (value-weighted) |
+| [5](05_leverage_ratio.md) | Leverage ratio | 0.67x (debt-to-equity) | 0.40 (debt-to-assets) |
 
 ---
 
