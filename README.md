@@ -21,6 +21,7 @@ Claude knows the methodology but picks the wrong one without guidance. The right
 | [2](02_breakeven_analysis.md) | Project breakeven | 6.25 years (simple payback) | ~9 years (discounted payback) |
 | [4](04_portfolio_return.md) | Portfolio return | 14.33% (equal-weight assumed) | 11.30% (value-weighted) |
 | [5](05_leverage_ratio.md) | Leverage ratio | 0.67x (debt-to-equity) | 0.40 (debt-to-assets) |
+| [8](prompts/08_modified_duration.md) | Bond price sensitivity | Rule of thumb shorthand | Modified Duration formula → −$36.75 |
 
 ### Category B — Skill Injection
 Claude genuinely does not know to use the method. The structured prompt teaches it a formula or framework it would never reach on its own.
@@ -30,7 +31,6 @@ Claude genuinely does not know to use the method. The structured prompt teaches 
 | [3](03_bond_holding_return.md) | Bond return | 5.26% current yield | 6.32% holding period return (HPR) |
 | [6](06_treynor_ratio.md) | Fund manager performance | CAPM alpha only | Treynor Ratio = 8.33 vs market 6.00 |
 | [7](07_dividend_discount_model.md) | Stock valuation | Qualitative yield range | DDM intrinsic value = $78.75 |
-| [8](08_modified_duration.md) | Bond price sensitivity | Rule of thumb estimate | Modified Duration formula → −$36.75 |
 | [9](09_dupont_decomposition.md) | ROE analysis | Qualitative observations | DuPont: margin × turnover × leverage |
 
 ---
