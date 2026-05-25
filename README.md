@@ -21,7 +21,7 @@ Claude knows the methodology but picks the wrong one without guidance. The right
 | [2](02_breakeven_analysis.md) | Project breakeven | 6.25 years (simple payback) | ~9 years (discounted payback) |
 | [4](04_portfolio_return.md) | Portfolio return | 14.33% (equal-weight assumed) | 11.30% (value-weighted) |
 | [5](05_leverage_ratio.md) | Leverage ratio | 0.67x (debt-to-equity) | 0.40 (debt-to-assets) |
-| [8](prompts/08_modified_duration.md) | Bond price sensitivity | Rule of thumb shorthand | Modified Duration formula → −$36.75 |
+| [8](08_modified_duration.md) | Bond price sensitivity | Rule of thumb shorthand | Modified Duration formula → −$36.75 |
 
 ### Category B — Skill Injection
 Claude genuinely does not know to use the method. The structured prompt teaches it a formula or framework it would never reach on its own.
